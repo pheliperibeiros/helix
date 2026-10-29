@@ -1,0 +1,8 @@
+{
+  "name": "Melhorrias - Helix",
+  "description": "Uma ferramenta visual intuitiva para promotores criarem diagramas de relacionamento, fluxogramas e linhas do tempo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
